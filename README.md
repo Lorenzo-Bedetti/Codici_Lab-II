@@ -1,4 +1,4 @@
-# Lab_Codici
+# Codici_sketches
  Raccolta di esercizi realizzati con codici durante il corso di Lab
  Università SUPSI, Mendrisio
  Anno 2020-21

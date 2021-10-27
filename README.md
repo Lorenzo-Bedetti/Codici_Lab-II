@@ -3,4 +3,4 @@
  Università SUPSI, Mendrisio
  Anno 2020-21
  
- Link all'indice: https://lorenzo-bedetti.github.io/Lab_Codici/
+ Link all'indice: https://lorenzo-bedetti.github.io/Codici_sketches/
